@@ -42,4 +42,3 @@ def sample_recommendation(model, data, user_ids):
 
 sample_recommendation(model, data, [3, 25, 450])
 
-#This code works
